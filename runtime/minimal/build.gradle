@@ -1,7 +1,7 @@
 plugins {
     id 'java'
     id 'maven-publish'
-    id 'org.jetbrains.kotlin.jvm' version '1.8.20'
+    id 'org.jetbrains.kotlin.jvm' version '1.8.22'
 }
 
 group = 'skywolf46'
@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    api("org.jetbrains.kotlin:kotlin-reflect:1.8.20")
+    api("org.jetbrains.kotlin:kotlin-reflect:1.8.22")
     api("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     api("io.insert-koin:koin-core:3.4.0")
     api("io.arrow-kt:arrow-core:1.2.4")

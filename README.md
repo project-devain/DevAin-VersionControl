@@ -8,8 +8,8 @@ Devain VersionControl은 Devain 프로젝트에서의 라이브러리 버전 통
 
 | 종속성                     | 버전       | 최소 버전 포함 여부 |
 |-------------------------|----------|-------------|
-| Kotlin                  | 1.8.20   | O           |
-| Kotlin Reflection       | 1.8.20   | O           |
+| Kotlin                  | 1.8.22   | O           |
+| Kotlin Reflection       | 1.8.22   | O           |
 | Koin Core               | 3.4.0    | O           |
 | ArrowKt Core            | 1.2.4    | O           |
 | Kotlinx Coroutines Core | 1.7.3    | O           |
