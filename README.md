@@ -32,8 +32,8 @@ depdendencies {
    // 둘 중 하나만 선택하여 사용하는것이 권장됩니다.
    
    // 최소한의 종속성을 추가합니다.
-   implementation "skywolf46:devain-version-minimal:1.3.0"
+   implementation "skywolf46:devain-version-minimal:1.3.1"
    // 모든 종속성을 추가합니다.
-   implementation "skywolf46:devain-version-full:1.3.0"
+   implementation "skywolf46:devain-version-full:1.3.1"
 }
 ```
